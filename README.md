@@ -23,12 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/raselkabir74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raselkabir74" height="30" width="40" /></a>
 <a href="https://twitter.com/kabirmdrasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabirmdrasel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rasel-kabir-manual-automation-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rasel-kabir-manual-automation-engineer" height="30" width="40" /></a>
 <a href="https://fb.com/rasel.kabir.91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasel.kabir.91" height="30" width="40" /></a>
-<a href="https://medium.com/@raselkabir74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raselkabir74" height="30" width="40" /></a>
-<a href="/https://rss.com/blog/how-do-rss-feeds-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/blog/how-do-rss-feeds-work/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
