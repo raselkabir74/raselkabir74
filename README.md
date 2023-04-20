@@ -1,32 +1,42 @@
 ![I am a manual and automation test engineer](https://img.freepik.com/free-vector/programmer-online-service-platform-coding-testing-writing-program-website-development-optimization-testing-program-isolated-vector-illustration_613284-3353.jpg?w=1800&t=st=1681980418~exp=1681981018~hmac=e4dc106b8f9511e0162fbfad4d088b375532dbeeabb01fd113c9d3bfa5cef9a2)
 
-### Hi there 👋, I am Md Rasel Kabir
-#### I am a manual and automation test engineer
+<h1 align="center">Hi 👋, I'm Md. Rasel Kabir</h1>
+<h3 align="center">I am a manual and automation test engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselkabir74&label=Profile%20views&color=0e75b6&style=flat" alt="raselkabir74" /> </p>
 
-I have 6+ years experienced in the IT industry with a key focus on. Software Testing and Quality Assurance Process using both Automation and Manual methodologies and DevOps Practices. I
-have been involved in designing automation frameworks, implementing new technologies and working in the agile environment with good interpersonal skills. Excellent grip on Selenium webdriver, Robot framework, Pytest, Python, Java, JavaScript, Ruby, TestNG, Cucumber, Cypress, Playwright, GitLab, CI/CD, API testing, and API test automation. A highly driven individual who is looking forward to pursuing a challenging career and becoming a part of a progressive organisation that provides a scope to enhance my knowledge and utilize my skills for the growth of the organisation
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raselkabir74" alt="raselkabir74" /></a> </p>
 
-Skills: Manual Testing/ Automation Testing/ API Testing
+<p align="left"> <a href="https://twitter.com/kabirmdrasel" target="blank"><img src="https://img.shields.io/twitter/follow/kabirmdrasel?logo=twitter&style=for-the-badge" alt="kabirmdrasel" /></a> </p>
 
-- 🔭 I’m currently working on ESKIMILIMITED 
-- 🌱 I’m currently learning AWS cloud services and Security testing 
-- 💬 Ask me about Automation and manual testing 
-- 📫 How to reach me: +8801611003327 
+- 🔭 I’m currently working on [ESKIMI LIMITED](https://www.eskimi.com/dsp)
 
+- 🌱 I’m currently learning **Security testing and AWS cloud services**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raselkabir74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-rasel-kabir-manual-automation-engineer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rasel.kabir.91/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kabirmdrasel)  
+- 💬 Ask me about **Selenium, Selenium grid, Docker, Playwright, Cypress, Postman, Jmeter**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/raselkabir74)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **raselkabircse@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/raselkabir74)](https://github.com/anuraghazra/github-readme-stats)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/raselkabir74&show_icons=true&count_private=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/raselkabir74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raselkabir74" height="30" width="40" /></a>
+<a href="https://twitter.com/kabirmdrasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabirmdrasel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-rasel-kabir-manual-automation-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rasel-kabir-manual-automation-engineer" height="30" width="40" /></a>
+<a href="https://fb.com/rasel.kabir.91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasel.kabir.91" height="30" width="40" /></a>
+<a href="https://medium.com/@raselkabir74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raselkabir74" height="30" width="40" /></a>
+<a href="/https://rss.com/blog/how-do-rss-feeds-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/blog/how-do-rss-feeds-work/" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/raselkabir74)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/raselkabir74)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselkabir74&show_icons=true&locale=en&layout=compact" alt="raselkabir74" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/raselkabir74)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raselkabir74&show_icons=true&locale=en" alt="raselkabir74" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/raselkabir74)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselkabir74&" alt="raselkabir74" /></p>
+
