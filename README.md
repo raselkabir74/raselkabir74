@@ -1,6 +1,8 @@
+![I am a manual and automation test engineer](https://img.freepik.com/free-vector/programmer-online-service-platform-coding-testing-writing-program-website-development-optimization-testing-program-isolated-vector-illustration_613284-3353.jpg?w=1800&t=st=1681980418~exp=1681981018~hmac=e4dc106b8f9511e0162fbfad4d088b375532dbeeabb01fd113c9d3bfa5cef9a2)
+
 ### Hi there 👋, I am Md Rasel Kabir
 #### I am a manual and automation test engineer
-![I am a manual and automation test engineer](https://img.freepik.com/free-vector/programmer-online-service-platform-coding-testing-writing-program-website-development-optimization-testing-program-isolated-vector-illustration_613284-3353.jpg?w=1800&t=st=1681980418~exp=1681981018~hmac=e4dc106b8f9511e0162fbfad4d088b375532dbeeabb01fd113c9d3bfa5cef9a2)
+
 
 I have 6+ years experienced in the IT industry with a key focus on. Software Testing and Quality Assurance Process using both Automation and Manual methodologies and DevOps Practices. I
 have been involved in designing automation frameworks, implementing new technologies and working in the agile environment with good interpersonal skills. Excellent grip on Selenium webdriver, Robot framework, Pytest, Python, Java, JavaScript, Ruby, TestNG, Cucumber, Cypress, Playwright, GitLab, CI/CD, API testing, and API test automation. A highly driven individual who is looking forward to pursuing a challenging career and becoming a part of a progressive organisation that provides a scope to enhance my knowledge and utilize my skills for the growth of the organisation
